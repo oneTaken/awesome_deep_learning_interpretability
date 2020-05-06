@@ -9,6 +9,7 @@
 
 |Year|Publication|Paper|Citation|code|
 |:---:|:---:|:---:|:---:|:---:|
+|2020|CVPR|[Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/pdf/2003.03622.pdf)|0|
 |2020|ICLR|Knowledge Isomorphism between Neural Networks|0|
 |2020|ICLR|Interpretable Complex-Valued Neural Networks for Privacy Protection|2|
 |2019|AI|Explanation in artificial intelligence: Insights from the social sciences|495|
