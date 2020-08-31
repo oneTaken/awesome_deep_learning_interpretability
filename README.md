@@ -14,6 +14,7 @@
 |2020|ICLR|[Interpretable Complex-Valued Neural Networks for Privacy Protection](https://arxiv.org/pdf/1901.09546.pdf)|2|
 |2019|AI|[Explanation in artificial intelligence: Insights from the social sciences](https://arxiv.org/pdf/1706.07269.pdf)|662|
 |2019|NMI|[Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead](https://arxiv.org/pdf/1811.10154.pdf)|389|
+|2019|NeurIPS|[Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift](https://papers.nips.cc/paper/9547-can-you-trust-your-models-uncertainty-evaluating-predictive-uncertainty-under-dataset-shift.pdf)|-|136|
 |2019|NeurIPS|[This looks like that: deep learning for interpretable image recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf)|80|[Pytorch](https://github.com/cfchen-duke/ProtoPNet)|
 |2019|NeurIPS|[A benchmark for interpretability methods in deep neural networks](https://papers.nips.cc/paper/9167-a-benchmark-for-interpretability-methods-in-deep-neural-networks.pdf)|28|
 |2019|NeurIPS|[Full-gradient representation for neural network visualization](http://papers.nips.cc/paper/8666-full-gradient-representation-for-neural-network-visualization.pdf)|7|
