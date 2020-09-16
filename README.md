@@ -10,6 +10,7 @@
 |Year|Publication|Paper|Citation|code|
 |:---:|:---:|:---:|:---:|:---:|
 |2020|CVPR|[Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/pdf/2003.03622.pdf)|3|
+|2020|CVPR|[High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Frequency_Component_Helps_Explain_the_Generalization_of_Convolutional_Neural_Networks_CVPR_2020_paper.pdf)|16|
 |2020|ICLR|[Knowledge consistency between neural networks and beyond](https://arxiv.org/pdf/1908.01581.pdf)|3|
 |2020|ICLR|[Interpretable Complex-Valued Neural Networks for Privacy Protection](https://arxiv.org/pdf/1901.09546.pdf)|2|
 |2019|AI|[Explanation in artificial intelligence: Insights from the social sciences](https://arxiv.org/pdf/1706.07269.pdf)|662|
