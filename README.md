@@ -1,3 +1,13 @@
+长期招聘AI画质算法实习与社招。
+如果你对以下一些方向感兴趣，或者有过相关经历，可以欢迎联系pxp.cv@qq.com
++ 图像超分辨率重建、降噪、HDR重建等
++ 基于Nerf等场景重建算法
++ AI 算法量化与onnx部署
+
+---
+
+
+
 # awesome_deep_learning_interpretability
 深度学习近年来关于模型解释性的相关论文。
 
